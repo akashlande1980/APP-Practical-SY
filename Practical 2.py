@@ -66,17 +66,17 @@ class Report:
         return
 
 
-r1 = Report("Advanced Python Practical Report", "Mandar Joshi")
+r1 = Report("Advanced Python Practical Report", "Akash Lande")
 r1.add_content("Completed Experiment No. 2 successfully.")
 r1.add_content("Implemented Decorators, Class Methods, Static Methods and Magic Methods.")
 r1.add_content("Learned Object-Oriented Programming concepts.")
-r1.add_content("Report prepared by Mandar Joshi.")
+r1.add_content("Report prepared by Akash Lande.")
 r1.display_report()
 
 print("\nChanging Company Name...\n")
 Report.change_company("MIT ADT University")
 
-r2 = Report("Employee Performance Report", "Mandar Joshi")
+r2 = Report("Employee Performance Report", "Akash Lande")
 r2.add_content("Attendance : 98%")
 r2.add_content("Projects Completed : 8")
 r2.add_content("Rating : Excellent")
@@ -84,7 +84,7 @@ r2.add_content("Department : Computer Engineering")
 r2.add_content("Recommendation : Promotion Approved")
 r2.display_report()
 
-r3 = Report("Student Result Report", "Mandar Joshi")
+r3 = Report("Student Result Report", "Akash Lande")
 r3.add_content("Student Name : Rahul")
 r3.add_content("Roll No : 101")
 r3.add_content("CGPA : 9.25")
