@@ -2,3 +2,5 @@ In Practical 1 i have added duplicate handling so that  If a book with the same 
 
 
 In Practical 2 i have added Added a Second Decorator (author_decorator)which prints the author’s name before generating the report.By writing this code i have learned to  use multiple decorators together to add different layers of functionality to a single method.
+
+In Practical 3 i have added a dashboard which stores the information of the payment details. By writing this code i have learned the Strategy Design Pattern in Python. I created different payment methods using separate classes and selected them at runtime through the PaymentContext class. I also learned method overriding, polymorphism, object creation, user input handling, and how to write flexible and reusable code that is easy to extend with new payment methods. 
